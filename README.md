@@ -1,5 +1,5 @@
 # README
-## how to use git revert
+## how to use git revert nnn
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
